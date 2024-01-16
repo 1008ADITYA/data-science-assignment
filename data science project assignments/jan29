@@ -1,0 +1,32 @@
+1. Python Programming Language was developed by **Guido van Rossum**.
+2. Python supports multiple types of programming including **procedural**, **object-oriented**, and **functional programming**.
+3. Yes, Python is **case sensitive** when dealing with identifiers.
+4. The correct extension of a Python file is **.py**.
+5. Python code is **interpreted**.
+6. Functions, loops, and conditional blocks are some of the blocks of code used in Python language.
+7. The '#' character is used to give single-line comments in Python.
+8. Functions like `sys.version` and `platform.python_version()` can help us find the version of python that we are currently working on.
+9. Python supports the creation of anonymous functions at runtime using a construct called **Lambda**.
+10. PIP stands for "Pip Installs Packages" or "Preferred Installer Program" for python.
+11. Built-in functions in python include `print()`, `len()`, `type()`, `str()`, `int()` etc.
+12. There isn't a maximum length for an identifier in Python; it's limited by the memory available.
+13. Benefits of using Python:
+    - Python is a high-level, general-purpose, dynamically typed, and interpreted programming language.
+    - It has a large and active community that contributes to its development and provides support.
+    - Python offers intuitive and easy-to-use data structures, simplifying data manipulation and management.
+    - Python is known for its simplicity and readability, making it an excellent choice for both beginners and experienced programmers.
+    - Python is portable across operating systems and interactive, allowing real-time code execution and testing.
+    - Python’s concise syntax allows developers to prototype applications quickly with less code.
+
+14. Memory Management in Python:
+    - Python uses a memory management system called reference counting to manage the memory used by objects in the program.
+    - Python memory allocation and deallocation is handled by the garbage collector and reference counting.
+    - Memory in Python is managed by Python private heap space. All Python objects and data structures are located in a private heap.
+    - The Python memory manager takes care of the allocation of Python private heap space.
+
+15. How to install Python on Windows and set path variables
+    - Download a recent version of Python, and then check the box to Add Python to PATH at the bottom of the setup screen.
+    - Finish the installation, and you should be good to go.
+    - Alternatively, you may manually add the paths into the Environment variables.
+
+16. Yes, **indentation is required** in Python. It is used to define the level of code blocks and scope in the code. Incorrect indentation can lead to errors or unexpected behavior in Python programs.
